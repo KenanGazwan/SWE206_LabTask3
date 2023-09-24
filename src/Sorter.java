@@ -1,4 +1,4 @@
-package GitWork.SWE206_LabTask3.src;
+// package GitWork.SWE206_LabTask3.src;
 
 public class Sorter {
     public static void main(String[] args) throws Exception {
