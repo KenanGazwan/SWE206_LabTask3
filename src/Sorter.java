@@ -3,6 +3,10 @@ public class Sorter {
         System.out.println("Hello, World!");
     }
 
+    
+    public static void sort(int[] arr){
+        selectionSort(arr);
+    }
     // Computer A Method 
     public static void selectionSort(int[] arr){  
         for (int i = 0; i < arr.length - 1; i++)  
